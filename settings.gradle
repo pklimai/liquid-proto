@@ -1,0 +1,4 @@
+rootProject.name = 'liquid-proto'
+
+
+enableFeaturePreview('GRADLE_METADATA')
